@@ -4728,7 +4728,7 @@ syncEmployeeAccounts();
 
               <div class="col-md-4"><label class="form-label">Tanggal Lahir</label><input id="ceoKrBirth" class="form-control" type="date" /></div>
               <div class="col-md-4"><label class="form-label">No. Telp</label><input id="ceoKrPhone" class="form-control" type="text" placeholder="08xxxxxxxxxx" /></div>
-              <div class="col-md-4"><label class="form-label">Jenkel</label><select id="ceoKrGender" class="form-select"></select></div>
+              <div class="col-md-4"><label class="form-label">Jenis Kelamin</label><select id="ceoKrGender" class="form-select"></select></div>
 
               <div class="col-md-6"><label class="form-label">Pendidikan Terakhir</label><select id="ceoKrEdu" class="form-select"></select></div>
               <div class="col-md-6"><label class="form-label">Status Keaktifan</label><select id="ceoKrActiveStatus" class="form-select"></select></div>
@@ -4753,7 +4753,7 @@ syncEmployeeAccounts();
               <div class="col-md-4"><label class="form-label">Tanggal masuk</label><input id="ceoKrJoin" class="form-control" type="date" /></div>
 
               <div class="col-md-4"><label class="form-label">Atasan</label><input id="ceoKrSupervisor" class="form-control" type="text" placeholder="Nama atasan" /></div>
-              <div class="col-md-4"><label class="form-label">Kode Bank</label><input id="ceoKrBankCode" class="form-control" type="text" placeholder="BCA / BRI / BNI" /></div>
+              <div class="col-md-4"><label class="form-label">Nama Bank</label><input id="ceoKrBankCode" class="form-control" type="text" placeholder="BCA / BRI / BNI" /></div>
 
               <div class="col-md-4"><label class="form-label">Bank Rekening</label><input id="ceoKrBankAccount" class="form-control" type="text" placeholder="Nomor rekening" /></div>
               <div class="col-md-4"><label class="form-label">Nama Akun Rekening</label><input id="ceoKrBankAccountName" class="form-control" type="text" placeholder="Nama pemilik rekening" /></div>
